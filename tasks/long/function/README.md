@@ -41,4 +41,6 @@ User selects an option and enters required values. The program then calculates a
 
 ---
 
-## Example
+## Notes
+- All inputs must be positive numbers.
+- The program uses `3.14` as an approximation of π.
